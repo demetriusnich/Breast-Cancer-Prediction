@@ -1,3 +1,8 @@
+# Breast Cancer Prediction Website
+We created a website with prediction graphs showing the possible cases of breast cancer for 2020, and compared it to prior years.
+This site was created to spread awareness for breast cancer in Atlanta.
+
+
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/)
 
 [Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
