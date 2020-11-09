@@ -1,4 +1,7 @@
 # Breast Cancer Prediction Website
+
+HEAD According to Georgia Department of Public Health and the Georgia Center for Cancer Statistics, breast cancer is the leading cause of cancer incidence in women citizens residing in Georgia. Breast cancer accounts for 30% of all new cancers found in women. Through prediction modelling, women can understand how risk factors play a part in prevention. Knowing these risks brings awareness and awareness brings about prevention
+
 We created a website with prediction graphs showing the possible cases of breast cancer for 2020, and compared it to prior years.
 
 This site was created to spread awareness for breast cancer in Atlanta.
