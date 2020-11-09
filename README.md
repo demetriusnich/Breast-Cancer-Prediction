@@ -3,6 +3,8 @@ We created a website with prediction graphs showing the possible cases of breast
 
 This site was created to spread awareness for breast cancer in Atlanta.
 
+You can see what work was done on Google Colab https://colab.research.google.com/drive/1N89pY4MSiTOUGUtVqSta7wfQ1yUzyV-I?usp=sharing
+
 This project was created by Demetrius Nicholson, Rayna Wynn, Elijah Higgs, Javier Guillen, and Tony Guy.
 
 Data for this study was obtained from the BCSC: http://bcsc-research.org/.
