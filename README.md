@@ -1,8 +1,10 @@
 # Breast Cancer Prediction Website
 We created a website with prediction graphs showing the possible cases of breast cancer for 2020, and compared it to prior years.
+
 This site was created to spread awareness for breast cancer in Atlanta.
 
 This project was created by Demetrius Nicholson, Rayna Wynn, Elijah Higgs, Javier Guillen, and Tony Guy.
+
 Data for this study was obtained from the BCSC: http://bcsc-research.org/.
 
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/)
